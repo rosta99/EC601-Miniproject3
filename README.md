@@ -2,10 +2,9 @@
 ### description     
 this is the report for EC601 miniproject 3.     
 ### user story for store data      
-MySQL    
+#### MySQL    
 * legacy applications or applications that require multi-row transactions. Accounting system. 
-&nbp;   
-Mango DB    
+#### Mango DB    
 * real-time analytics, content management, internet of things, mobile apps    
 ### user story for displaying data     
 ### Database of Mongo DB and my SQL     
