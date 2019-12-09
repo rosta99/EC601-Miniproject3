@@ -3,7 +3,8 @@
 this is the report for EC601 miniproject 3.     
 ### user story for store data      
 MySQL    
-* legacy applications or applications that require multi-row transactions. Accounting system.    
+* legacy applications or applications that require multi-row transactions. Accounting system. 
+&nbp;   
 Mango DB    
 * real-time analytics, content management, internet of things, mobile apps    
 ### user story for displaying data     
