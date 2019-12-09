@@ -4,10 +4,11 @@ this is a report of comparision of Mongo DB and mySQL for EC601 mini project 3.
 ### User story for store data      
 #### MySQL    
 * As a manager at a stock trading institution, I would like to use mySQL to manage our accounting system, which can handle multi-row transsctions. 
-* 
+* For medium-sized companies that need high-quality, professionally-managed database system with excellent support, MySQL is a better option.
 #### MangoDB    
 * As a user, I would like to modify my data schema without changing any of my existing data, so I will use mangodb.
-* real-time analytics, content management, internet of things, mobile apps
+* As an owner of a small business with rapid growth, I would choose Mangodb for it's easy management.
+* For an app with real-time analytics, Mangodb is a better choice since it doesn't require schema definitions.
 ### User story for displaying data
 #### MySQL
 * As a manager, I'll choose mySQL over Mangodb cause I'd like to have my databases in a structured format.
