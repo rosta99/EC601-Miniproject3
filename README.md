@@ -1,6 +1,6 @@
 # MongoDB vs. MySQL    
 ### Description     
-this is a report of comparision of Mongo DB and mySQL for EC601 mini project 3.     
+This is a report of comparision of Mongo DB and mySQL for EC601 mini project 3.     
 ### User story for store data      
 #### MySQL    
 * As a manager at a stock trading institution, I would like to use mySQL to manage our accounting system, which can handle multi-row transsctions. 
